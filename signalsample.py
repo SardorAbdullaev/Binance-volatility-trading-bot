@@ -17,6 +17,7 @@ TICKERS = 'signalsample.txt'
 TIME_TO_WAIT = 4 # Minutes to wait between analysis
 FULL_LOG = False # List anylysis result to console
 
+
 def analyze(pairs):
     taMax = 0
     taMaxCoin = 'none'
